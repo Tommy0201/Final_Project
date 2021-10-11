@@ -1,0 +1,227 @@
+html {
+    font-size: 16px;
+}
+h2 {
+    font-family: 'Paytone One', sans-serif;
+    font-weight: lighter;
+    color: rgb(41, 41, 41);
+}
+h3 {
+    font-size: 2rem;
+    font-family: 'Paytone One', sans-serif;
+    font-weight: 200;
+    color: rgb(41, 41, 41);
+}
+p {
+    font-family: 'Yrsa', serif;
+    font-size: 2rem;
+}
+header {
+    position: fixed;
+    margin: 0; 
+    height: 4rem; 
+    width: 100%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+    padding: 1.5rem;
+    z-index: 1;
+    top:0px; 
+    font-family: 'Raleway', sans-serif;
+}
+div.school-name {
+    font-weight: 100;
+}
+div.school-name img {
+    height: 2rem;
+}
+div.sections {
+    display: inline-flex; 
+    justify-content: space-around; 
+    align-items: center;
+    padding-right: 2.5rem;
+    font-weight: bolder;
+}
+div.sections a {
+    margin: 16px;
+    color:black;
+    text-decoration: none !important;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+div.start-here {
+    display: flex; 
+    justify-content: center;
+    background-color: rgb(150, 149, 149);
+    margin:120px 0px 32px; 
+    
+}
+div.start-here img{
+    margin: 2rem 1.5rem; 
+    width:60%; 
+    padding: 80% 24px:
+}
+div.learn {
+    margin: 0px 24px 24px;  
+    text-align: center;
+    display:flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+div.learn h2 {
+    margin-top: 10px; 
+    font-size: 4rem;
+}
+div.learn p{ 
+    font-size: 2rem;
+}
+div.button {
+    padding:4%; 
+    width:50%; 
+    text-align: center;
+    padding: 8px; 
+    background-color: rgb(41, 41, 41);
+    border-radius: 4px;
+}
+div.button a{
+    color: white; 
+    text-decoration: none;
+}
+
+
+
+div.articles {
+    padding: 2rem 0rem 2rem 1.5rem; 
+    display: flex;
+    font-size: 2rem;
+    margin-bottom: 2rem; 
+}
+div.practice { 
+    margin-right: 1.5rem; 
+    width: 60%;
+}
+div.practice img{
+    width: 100%;
+}
+div.practice h2{
+    margin-bottom: 1.5 rem; 
+    font-size: 3rem;
+}
+div.about-us {
+    display:flex; 
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+div.about-us a{
+    text-decoration: none;
+}
+div.information {
+    display: flex; 
+    align-items:center; 
+}
+div.information img{
+    width:30%;
+}
+div.detail {
+    width: 65%; 
+    margin-left:5%; 
+}
+
+
+
+div.start-learning {
+    padding: 2rem 2rem; 
+    text-align: center;
+    background-color: rgb(150, 149, 149);
+}
+
+
+div.start-learning h2 {
+    margin-bottom: 1.5 rem; 
+    font-size: 3rem;
+}
+div.courses {
+    display:flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+div.course {
+    margin: 1rem 1.5rem; 
+    background-color: white;
+    padding: 0rem 0.5rem 0rem; 
+    width:25%; 
+}
+div.course img{
+    width:104%;
+    margin-left:-2%; 
+}
+
+div.start-learning h2 {
+    margin-bottom: 1.5 rem; 
+    font-size: 3rem;
+}
+
+
+
+
+div.thesis-exhibit {
+    padding: 2rem 0rem 2rem 1.5rem; 
+    margin-bottom: 2rem; 
+}
+
+div.thesis-exhibit h2{
+    margin-bottom: 1.5 rem; 
+    font-size: 3rem;
+    text-align: center;
+}
+div.thesis {
+    display: flex;
+    font-size: 2rem;
+}
+div.vid { 
+    margin-right: 1.5rem; 
+    width: 60%;
+}
+div.vid video{
+    width: 100%;
+}
+
+div.exhibits {
+    display:flex; 
+    flex-direction: column;
+    justify-content: flex-start;
+}
+div.exhibit {
+    display: flex; 
+    align-items:center; 
+    margin: 0rem 0rem 4rem; 
+}
+div.exhibit img{
+    width:50%; 
+}
+
+div.copyright{
+    padding: 1rem 1.5rem; 
+    display: flex; 
+    width:100%; 
+    justify-content: space-between;
+
+}
+div.terms-privacy{
+    display:flex;
+}
+div.terms-privacy p{
+    margin-right: 1rem; 
+}
+
+
+
+
+
+
